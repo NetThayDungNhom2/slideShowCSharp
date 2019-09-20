@@ -1,0 +1,10 @@
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\bin\Debug\SlideShow.exe.config
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\obj\Debug\SlideShow.csprojAssemblyReference.cache
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\obj\Debug\SlideShow.Form1.resources
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.cache
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+D:\Documents\.NET\C#\workspace\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
